@@ -13,31 +13,20 @@
 
 - 🌎 I never stop **learning** new things every day
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-- Frontend:
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,react,angular&perline=8)](https://skillicons.dev)
+- Frontend: [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,react,angular&perline=8)](https://skillicons.dev)
 
-- Backend:
-  
-[![My Skills](https://skillicons.dev/icons?i=html,nodejs,express,nestjs,graphql&perline=8)](https://skillicons.dev)
+- Backend: [![My Skills](https://skillicons.dev/icons?i=html,nodejs,express,nestjs,graphql&perline=8)](https://skillicons.dev)
 
-- Mobile:
-  
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,kotlin&perline=8)](https://skillicons.dev)
+- Mobile: [![My Skills](https://skillicons.dev/icons?i=flutter,react,kotlin&perline=8)](https://skillicons.dev)
 
-- Base de datos:
-  
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql,mongodb,dynamodb,&perline=8)](https://skillicons.dev)
+- Base de datos: [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql,mongodb,dynamodb,&perline=8)](https://skillicons.dev)
 
-- Cloud computing:
-  
-[![My Skills](https://skillicons.dev/icons?i=aws&perline=8)](https://skillicons.dev)
+- Cloud computing: [![My Skills](https://skillicons.dev/icons?i=aws&perline=8)](https://skillicons.dev)
 
-- Herrameintas:
-  
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,vscode,figma&perline=8)](https://skillicons.dev)
+- tools: [![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,vscode,figma&perline=8)](https://skillicons.dev)
   
 
 <h3 align="left">Connect with me:</h3>
@@ -47,4 +36,5 @@
 </p>
 
 
+<h3 align="left">my stats</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HDS2904&layout=compact)](https://github.com/HDS2904/github-readme-stats)
